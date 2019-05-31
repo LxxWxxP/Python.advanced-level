@@ -1,0 +1,9 @@
+1.类名（object）：
+注：类型以大写字母开头
+2.object是python所有类的基类（元类）
+3.pass：是do nothing 用以保证语义与结构的完整
+结果：
+<__main__.Person object at 0x00000000022B8C18>
+<__main__.Person object at 0x00000000022B8C50>
+False
+4.出现__main__：是调用模块本身
